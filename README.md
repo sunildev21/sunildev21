@@ -1,13 +1,12 @@
 
-![Web-developer](https://user-images.githubusercontent.com/46484569/88458558-8c31eb80-ceac-11ea-8058-a555f9e1b660.png)
     
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Brijesh Dhanani a Full Stack Developer from India.
+### Hello! I'm Sunil Gupta a Full Stack Developer from India.
 
 ### Portfolio: https://sunildev21.github.io
 
-<a href="https://twitter.com/dhanani_brijesh">
+<!-- <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
@@ -18,7 +17,7 @@
 </a>
 <a href="https://www.instagram.com/singer_brijesh_dhanani">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 
 <br />
 <br />
@@ -48,5 +47,3 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/sunildev21)](https://github.com/sunildev21) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/sunildev21)](https://github.com/sunildev21)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/sunildev21)](https://gitlab.com/sunildev21) 
-
-⭐️ From [@sunildev21](https://github.com/sunildev21)
